@@ -19,3 +19,5 @@ Change 8 -> By team mate on remote master to test rebase
 Change 9 -> Push to origin master from local master
 
 Change 10 -> Some changes
+
+Change 11 -> Test simple pull operation from remote to local WI9 by team mate
