@@ -13,3 +13,5 @@ change 4 for -> fixing bug3.
 change 5 for -> fixing bug3.
 
 Change 6 for -> enhancement 1.
+
+Change 7 for -> Push to origin master from local master
