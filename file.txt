@@ -1,9 +1,11 @@
 Hello World!
 
-Change 1 for login feature
+Change 1 for -> login feature
 
-Change 2 for fixing bug1
+Change 2 for -> fixing bug1
 
-change 3 for fixing bug2
+change 3 for -> fixing bug2
 
-change 4 for fixing bug3
+change 4 for -> fixing bug3
+
+change 5 for -> by teammate on master 
